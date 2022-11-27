@@ -3,9 +3,7 @@ This is the automation test for Starboard.
 
 Author: Sujanedran
 
-Date: 2022-11-27
-
-Last updated: 8:27PM
+Last updated: 2022-11-27 8:27PM
 
 Project: https://github.com/johngalactus/automation_test/tree/main/Cypress%20Test
 
